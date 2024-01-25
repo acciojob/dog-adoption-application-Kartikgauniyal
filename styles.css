@@ -12,11 +12,11 @@
 
         form {
             
-            border-radius: 8px;
+          
             
             padding: 20px;
-            max-width: 400px;
-            width: 100%;
+           
+        
            
         }
 
@@ -29,7 +29,7 @@
         
 
 
-        input[type="submit"] {
+        input {
            
           
         
@@ -37,6 +37,6 @@
             font-size: 16px;
         }
 
-        input[type="submit"]:hover {
+        input:hover {
             background-color: #45a049;
         }
