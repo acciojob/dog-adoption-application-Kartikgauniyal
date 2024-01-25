@@ -7,20 +7,7 @@
             display: flex;
             justify-content: center;
             
-         
-        }
-
-        form {
-            
-          
-            
-            padding: 20px;
-           
-        
-           
-        }
-
-        label {
+           label {
             display: block;
             margin-bottom: 8px;
             font-weight: bold;
@@ -32,8 +19,9 @@
         input {
             cursor: pointer;
             font-size: 16px;
-        }
+        } 
+#submit{ margin-top:8px;  }
 
-        #submit:hover {
+        #submit:hover { 
             background-color: #45a049;
         }
